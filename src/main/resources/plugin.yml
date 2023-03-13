@@ -1,0 +1,3 @@
+name: MovementChecker
+version: ${project.version}
+main: net.azisaba.movementchecker.MovementChecker
